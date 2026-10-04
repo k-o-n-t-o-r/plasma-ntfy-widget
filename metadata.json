@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "k-o-n-t-o-r"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Receive, browse and send ntfy messages from the panel.",
+        "EnabledByDefault": true,
+        "Icon": "notifications",
+        "Id": "com.github.k-o-n-t-o-r.ntfy",
+        "License": "GPL-3.0-or-later",
+        "Name": "ntfy",
+        "Website": "https://github.com/k-o-n-t-o-r/plasma-ntfy-widget",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": []
+}

@@ -1,0 +1,8 @@
+temp/
+test_server.txt
+test_token.txt
+.pi/
+.remember/
+__pycache__/
+*.pyc
+*.plasmoid
